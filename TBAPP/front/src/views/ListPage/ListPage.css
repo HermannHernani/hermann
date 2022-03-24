@@ -1,0 +1,11 @@
+@media screen and (max-width: 767px){
+    .hiddenOnSmallScreen{
+        display: none;
+        overflow: hidden;
+    }
+}
+
+.bg{
+    background-image: url('../../assets/img/bgs/list.jpg');
+    background-repeat: no-repeat;
+}

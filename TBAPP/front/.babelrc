@@ -1,0 +1,22 @@
+{
+  "presets": ["es2015","@babel/preset-react", "@babel/preset-env"],
+  "plugins": [
+    "transform-class-properties",
+    "emotion",
+    "jsx-control-statements",
+  [
+    "import",
+    {
+      "libraryName": "antd",
+      "style": true
+    }
+  ],
+    "transform-react-jsx",
+    "transform-react-inline-elements",
+    "transform-object-rest-spread",
+    ["module-resolver", {
+      "root": ["./src"],
+    }],
+    ["import-rename", {"^(.*)\\.jsx$": "$1"}]
+  ]
+}

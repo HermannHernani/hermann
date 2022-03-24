@@ -1,0 +1,32 @@
+ul{
+list-style-type: none;
+}
+li{
+    padding:10px;
+}
+p{
+    text-align: center;
+    text-align-last: center;
+}
+h2{
+    margin-left: 1%;
+    margin-top:5%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+}
+.container{
+    margin-top:1%;
+}
+.header{
+    border-bottom:1px solid gray;
+    padding:20px
+}
+.about{
+    margin-top:30%;
+    font-size:12px;
+}
+
+.img{
+    align-items: center;
+    text-align-last: center;
+}

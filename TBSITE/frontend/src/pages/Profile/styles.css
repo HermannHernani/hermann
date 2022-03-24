@@ -1,0 +1,43 @@
+input{
+    border:transparent;
+    border-bottom:2px solid gray;
+    margin: 5%;
+    margin-left:9%;
+    font-size: 14px;
+}
+
+.end-button{
+    margin-left:5% !important;
+    padding-top:5px !important;
+
+}
+
+.about-field{
+    color:black !important;
+    font-size: 12px;
+    border:transparent;
+    border-bottom: 2px solid #eeee ;
+}
+label{
+    font-size: 14px;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
+.profile-info{
+    display:table-row;
+}
+.Profile{
+    margin-left:40%;
+    margin-right:40%;
+    border: 2px solid green;
+    width:20%;
+    height: 18%;
+    
+}
+#title{
+    display: inline;
+    vertical-align: top;
+     margin-left: 30%; 
+    text-align: center;
+
+}

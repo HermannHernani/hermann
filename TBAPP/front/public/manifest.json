@@ -1,0 +1,23 @@
+{
+  "short_name": "TBApp",
+  "name": "Bem Vindo ao TBApp",
+  "description": "Bem Vindo ao TBApp",
+  "icons": [
+    {
+      "src": "Logopng_2060x2060.png",
+      "sizes": "2060x2060",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#2FA4CC",
+  "background_image":[
+    {
+      "src": "Logopng_2060x2060.png",
+      "sizes": "2060x2060",
+      "type": "image/png"
+    }
+  ]
+}
