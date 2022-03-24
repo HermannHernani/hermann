@@ -1,0 +1,5 @@
+sudo docker system prune -a
+sudo docker run --name postgresdb -e POSTGRES_PASSWORD=123 -d -p 5555:5432 postgres
+yarn start
+yarn run dev
+
